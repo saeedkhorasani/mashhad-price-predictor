@@ -1,0 +1,8 @@
+streamlit
+joblib
+pandas
+numpy
+scikit-learn
+matplotlib
+shap
+num2fawords
